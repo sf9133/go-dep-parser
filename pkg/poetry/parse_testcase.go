@@ -1,6 +1,6 @@
 package poetry
 
-import "github.com/aquasecurity/go-dep-parser/pkg/types"
+import "github.com/sf9133/go-dep-parser/pkg/types"
 
 var (
 	// docker run --name poetry  --rm -it  jonatkinson/python-poetry:3.7

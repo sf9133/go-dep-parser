@@ -1,6 +1,6 @@
 package npm
 
-import "github.com/aquasecurity/go-dep-parser/pkg/types"
+import "github.com/sf9133/go-dep-parser/pkg/types"
 
 var (
 	// docker run --name composer --rm -it node:12-alpine sh

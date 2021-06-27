@@ -1,6 +1,6 @@
 package gomod
 
-import "github.com/aquasecurity/go-dep-parser/pkg/types"
+import "github.com/sf9133/go-dep-parser/pkg/types"
 
 var (
 	// docker run --name gomod --rm -it golang:1.15 bash
@@ -89,7 +89,7 @@ var (
 		{"github.com/anmitsu/go-shlex", "0.0.0-20161002113705-648efa622239"},
 		{"github.com/aquasecurity/bolt-fixtures", "0.0.0-20200903104109-d34e7f983986"},
 		{"github.com/aquasecurity/fanal", "0.0.0-20210119051230-28c249da7cfd"},
-		{"github.com/aquasecurity/go-dep-parser", "0.0.0-20201028043324-889d4a92b8e0"},
+		{"github.com/sf9133/go-dep-parser", "0.0.0-20201028043324-889d4a92b8e0"},
 		{"github.com/aquasecurity/go-gem-version", "0.0.0-20201115065557-8eed6fe000ce"},
 		{"github.com/aquasecurity/go-npm-version", "0.0.0-20201110091526-0b796d180798"},
 		{"github.com/aquasecurity/go-pep440-version", "0.0.0-20210121094942-22b2f8951d46"},

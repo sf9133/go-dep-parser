@@ -21,8 +21,8 @@ import (
 	"go.uber.org/zap"
 	"golang.org/x/xerrors"
 
-	"github.com/aquasecurity/go-dep-parser/pkg/log"
-	"github.com/aquasecurity/go-dep-parser/pkg/types"
+	"github.com/sf9133/go-dep-parser/pkg/log"
+	"github.com/sf9133/go-dep-parser/pkg/types"
 )
 
 const (

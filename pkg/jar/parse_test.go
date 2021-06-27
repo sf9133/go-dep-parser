@@ -12,8 +12,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/aquasecurity/go-dep-parser/pkg/jar"
-	"github.com/aquasecurity/go-dep-parser/pkg/types"
+	"github.com/sf9133/go-dep-parser/pkg/jar"
+	"github.com/sf9133/go-dep-parser/pkg/types"
 )
 
 var (

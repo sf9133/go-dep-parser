@@ -10,7 +10,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/aquasecurity/go-dep-parser/pkg/types"
+	"github.com/sf9133/go-dep-parser/pkg/types"
 )
 
 // Parse scans file to try to report the Go and module versions.

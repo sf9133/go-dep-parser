@@ -1,6 +1,6 @@
 package bundler
 
-import "github.com/aquasecurity/go-dep-parser/pkg/types"
+import "github.com/sf9133/go-dep-parser/pkg/types"
 
 var (
 	// docker run --name bundler --rm -it ruby:2.6 bash

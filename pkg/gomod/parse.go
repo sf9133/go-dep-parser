@@ -5,7 +5,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/aquasecurity/go-dep-parser/pkg/types"
+	"github.com/sf9133/go-dep-parser/pkg/types"
 	"golang.org/x/xerrors"
 )
 
