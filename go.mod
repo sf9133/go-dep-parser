@@ -1,4 +1,4 @@
-module github.com/aquasecurity/go-dep-parser
+module github.com/sf9133/go-dep-parser
 
 go 1.12
 
